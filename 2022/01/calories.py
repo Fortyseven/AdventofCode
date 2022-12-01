@@ -22,3 +22,6 @@ elves.sort()
 
 # and the winner is...
 print(elves[-1])
+
+# the double-deuce
+print(sum(elves[-3:]))
